@@ -1,0 +1,4 @@
+import pyautogui
+
+cursor = pyautogui.position()
+print(cursor)
